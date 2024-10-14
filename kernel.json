@@ -1,0 +1,12 @@
+{
+    "argv": [
+        "perl",
+        "-MDevel::IPerl",
+        "-e",
+        "Devel::IPerl->main('{connection_file}')",
+        "kernel",
+        "{connection_file}"
+    ],
+    "display_name": "Perl 5.38",
+    "language": "perl"
+}
